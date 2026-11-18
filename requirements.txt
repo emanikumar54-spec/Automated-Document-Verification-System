@@ -1,0 +1,11 @@
+
+streamlit
+pytesseract
+PyMuPDF
+opencv-python
+Pillow
+pandas
+numpy
+reportlab
+sqlalchemy
+python-dateutil
